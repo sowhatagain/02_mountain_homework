@@ -1,9 +1,9 @@
-Parent,Amount
-Cho Oyu,7
-Dhaulagiri,4
-Distaghil Sar,5
-Gasherbrum I,8
-K2,5
-Kangchenjunga,7
-Mount Everest,9
-Shisha Pangma,4
+,Parent,Amount
+4,Cho Oyu,7
+7,Dhaulagiri,4
+10,Distaghil Sar,5
+13,Gasherbrum I,8
+18,K2,5
+20,Kangchenjunga,7
+33,Mount Everest,9
+42,Shisha Pangma,4

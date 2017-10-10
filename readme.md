@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Задача:
 Посчитать количество упоминаний каждого хребта в столбце Parent Mountain с помощью Pandas. 
 Только если это количество больше 3, но не 3.
@@ -15,14 +14,3 @@ mountains.ipynb
 Решение2: далее в mountains.ipynb
 
 Ответ2: результат в файле Intersc_mnts_having_more_three_pp.csv
-=======
-Задача:
-Посчитать количество упоминаний каждого хребта в столбце Parent Mountain с помощью Pandas. 
-Только если это количество больше 3, но не 3.
-
-Решение:
-mountains.ipynb
-
-Ответ: 
-Результат в файле Mountains_groups_over_three_count.csv
->>>>>>> 8ea79adf0c7129b364ebaf9816399057604b9650
